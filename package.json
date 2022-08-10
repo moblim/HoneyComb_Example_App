@@ -6,7 +6,7 @@
     "email": "amara_olimb@brown.edu",
     "url": "https://github.com/moblim/HoneyComb_Example_App"
   },
-  "version": "2.3.1"
+  "version": "2.3.1",
   "license": "MIT",
   "private": true,
   "main": "public/electron.js",
